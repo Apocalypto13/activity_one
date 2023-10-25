@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+    max-width: 500px;
+    height: 600px;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
